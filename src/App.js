@@ -9,8 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
-            Now see the Amin Awsomeness!!! Again!! and Again!!
+            Code was changed in Features branch
           </p>
           <a
             className="App-link"
